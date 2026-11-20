@@ -1,6 +1,6 @@
 # Srujana Pedapati
 
-**Senior ServiceNow Developer** · ITSM · CMDB/ITOM · Integrations (REST, IntegrationHub) · HRSD
+**Senior ServiceNow Developer** · ITSM · CMDB/ITOM · Integrations (REST, IntegrationHub) · HRSD  
 Aurora / Denver, Colorado · open to remote and hybrid roles in the U.S.
 
 I build and support enterprise ServiceNow solutions. My work covers ITSM processes and Service Catalog automation, CMDB/CSDM data quality and Discovery, REST/SOAP and IntegrationHub integrations, and HR Service Delivery. I have 8+ years of IT experience, including 7+ years on the ServiceNow platform in technology distribution, healthcare, and manufacturing environments.
@@ -21,8 +21,11 @@ These repositories are **independently written, clean-room demonstrations** that
 ## Skills
 
 **Platform:** ITSM (Incident, Problem, Change, Request, SLAs), Service Catalog, CMDB, CSDM, Discovery, MID Server, ITAM (HAM/SAM), HRSD, GRC/IRM
+
 **Development:** JavaScript, Glide API, Business Rules, Script Includes, Client Scripts, UI Policies/Actions, Flow Designer, Scripted REST APIs, Service Portal, UI Builder, ATF
+
 **Integration:** REST, SOAP, IntegrationHub, Import Sets and Transform Maps, JSON, XML, LDAP, SSO
+
 **Delivery:** Agile/Scrum, SAFe, Update Sets, SIT/UAT, L2/L3 production support
 
 ## Contact
